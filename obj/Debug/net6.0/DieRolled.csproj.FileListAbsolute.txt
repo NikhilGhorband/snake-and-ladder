@@ -1,0 +1,15 @@
+D:\My Bridgelab\DieRolled\bin\Debug\net6.0\DieRolled.exe
+D:\My Bridgelab\DieRolled\bin\Debug\net6.0\DieRolled.deps.json
+D:\My Bridgelab\DieRolled\bin\Debug\net6.0\DieRolled.runtimeconfig.json
+D:\My Bridgelab\DieRolled\bin\Debug\net6.0\DieRolled.dll
+D:\My Bridgelab\DieRolled\bin\Debug\net6.0\DieRolled.pdb
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.csproj.AssemblyReference.cache
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.AssemblyInfoInputs.cache
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.AssemblyInfo.cs
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.dll
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\refint\DieRolled.dll
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.pdb
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\DieRolled.genruntimeconfig.cache
+D:\My Bridgelab\DieRolled\obj\Debug\net6.0\ref\DieRolled.dll
