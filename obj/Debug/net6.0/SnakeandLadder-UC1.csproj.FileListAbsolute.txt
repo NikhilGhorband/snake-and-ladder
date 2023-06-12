@@ -1,0 +1,15 @@
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.csproj.AssemblyReference.cache
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.AssemblyInfoInputs.cache
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.AssemblyInfo.cs
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\SnakeandLadder-UC1\bin\Debug\net6.0\SnakeandLadder-UC1.exe
+D:\My Bridgelab\SnakeandLadder-UC1\bin\Debug\net6.0\SnakeandLadder-UC1.deps.json
+D:\My Bridgelab\SnakeandLadder-UC1\bin\Debug\net6.0\SnakeandLadder-UC1.runtimeconfig.json
+D:\My Bridgelab\SnakeandLadder-UC1\bin\Debug\net6.0\SnakeandLadder-UC1.dll
+D:\My Bridgelab\SnakeandLadder-UC1\bin\Debug\net6.0\SnakeandLadder-UC1.pdb
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.dll
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\refint\SnakeandLadder-UC1.dll
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.pdb
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\SnakeandLadder-UC1.genruntimeconfig.cache
+D:\My Bridgelab\SnakeandLadder-UC1\obj\Debug\net6.0\ref\SnakeandLadder-UC1.dll
